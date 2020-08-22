@@ -13,7 +13,7 @@ Requirements
 Install
 =======
 
-    npm install ftp
+    npm i @icetee/ftp
 
 
 Examples
